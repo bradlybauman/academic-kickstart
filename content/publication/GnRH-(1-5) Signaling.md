@@ -1,5 +1,5 @@
 +++
-title = "Test title"
+title = "Regulation of Gonadotropin-Releasing Hormone-(1–5) Signaling Genes by Estradiol Is Age Dependent"
 date = "2017-10-27"
 draft = false
 
