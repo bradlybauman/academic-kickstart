@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_doi = "https://doi.org/10.3389%2Ffendo.2017.00282"
 url_code = ""
 url_dataset = ""
 url_project = ""
